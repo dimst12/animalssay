@@ -16,10 +16,8 @@ You can install `animalssay` via pip (once published):
 pip install animalssay
 Or install locally for development:
 
-bash
 pip install -e .
-Usage
-python
+
 from animalssay import cat_says, dog_says, frog_says
 
 print(cat_says("Hello!"))
@@ -27,7 +25,6 @@ print(dog_says("Woof!"))
 print(frog_says("Ribbit."))
 This will print:
 
-lua
   --------
 < Hello! >
   --------
@@ -43,8 +40,6 @@ License
 MIT License © Dmytro Steblev
 
 Enjoy making animals talk! 🐱🐶🦊🐸🐮🐷🦉
-
-yaml
 
 ---
 
