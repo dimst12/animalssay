@@ -1,8 +1,0 @@
-README.md
-setup.py
-animalssay/__init__.py
-animalssay/animals.py
-animalssay.egg-info/PKG-INFO
-animalssay.egg-info/SOURCES.txt
-animalssay.egg-info/dependency_links.txt
-animalssay.egg-info/top_level.txt
