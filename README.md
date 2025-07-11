@@ -4,7 +4,7 @@
 
 ## Features
 
-- Cute ASCII art animals: cat, dog, frog, fox, cow, pig, owl  
+- Cute ASCII art animals: cat, dog, frog, fox, cow, pig, owl and more
 - Simple functions to generate speech bubbles with animal pictures  
 - Easy to use and extend with your own animals  
 
