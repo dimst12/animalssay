@@ -1,3 +1,5 @@
+![CI](https://github.com/dimst12/animalssay/actions/workflows/python-ci.yml/badge.svg)
+
 # animalssay
 
 **animalssay** is a fun Python library that lets animals say things in ASCII art style — just like the classic `cowsay`, but with more animals!
