@@ -1,4 +1,4 @@
-![CI](https://github.com/dimst12/animalssay/actions/workflows/python-ci.yml/badge.svg)
+![CI](https://github.com/dimst12/animalssay/actions/workflows/python-ci.yaml/badge.svg)
 
 # animalssay
 
